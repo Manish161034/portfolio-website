@@ -1,0 +1,293 @@
+@media only screen and (max-width:450px ) and (min-width:360px)
+{
+ nav{
+        width:50%;
+        justify-content:left
+    }
+.left{
+font-size: .90rem;
+
+margin: 0;
+padding: 0;
+}
+
+nav ul {
+    margin-right: 15px;
+  }
+nav ul li a {
+    font-size: .5rem;
+    text-decoration: none;
+    color: white;
+  }
+  nav ul li a:hover {
+    color: rgb(159, 159, 240);
+    font-size: .8rem;
+  }
+  nav ul li {
+    list-style: none;
+    margin: 0px 6px;
+  }
+  .firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 130px 0px;
+    align-items: center;
+    height: 500px;
+  }
+  .leftsection{
+    font-size: 1.5rem;
+  }
+  .rightsection img {
+    width: 100%;
+  }
+  .secondsection h1 {
+    font-size: 1.9rem;
+  }
+  .secondsection .spara {
+    margin-top: 28px;
+    font-size: 1.8rem;
+    font-family: "Cabin Sketch", cursive;
+  }
+  .obj {
+    width: 15%;
+    margin: 2px;
+    height: 95%;
+    text-align: center;
+  
+  }
+  .database {
+    background-color: white;
+    width:60%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float:right;
+
+
+  }
+  .database p {
+    color: rgb(60, 9, 108);
+    margin-top: 15px;
+    font-size: .8rem;
+  }
+  .database p span {
+    color: rgb(60, 9, 108);
+    font-size: .5rem;
+  }
+  .obj {
+    width: 35%;
+    margin: 8px;
+    height: 75%;
+    text-align: center;
+  
+  }
+  .con p {
+    font-size: .9rem;
+    margin: 10px 10px;
+    padding: 2px;
+  }
+  .fom {
+    display: block;
+    height: max-content;
+    margin-top: 20px;
+    margin-left: 10px;
+
+  }
+  .fom p {
+    font-size: .8rem;
+    margin-top: 12px;
+    margin-left: 10px;
+  }
+  .fom input {
+    top: 120px;
+    padding: 10px;
+    margin: 10px;
+    width: 80%;
+    height: 20px;
+    font-size: .8rem;
+  }
+  .fom button {
+    display: block;
+    margin-left: 12px;
+    margin-top: 20px;
+    font-size: .8rem;
+    text-align: center;
+    padding: 5px;
+  }
+  .fom button img {
+    height: 10px;
+    width: 10px;
+ }
+ .lg {
+    margin-top: 30px;
+    margin-left: 70px;
+  }
+  .lg img {
+    width: 20px;
+    height: 20px;
+    margin: 3px;
+  }
+  footer p {
+    margin-left:70px;
+    font-size: .8rem;
+    margin-top: 15px;
+    font-weight: 100;
+  }
+  .footer-text-center {
+    color: gray;
+    text-align: center;
+    padding: 12px 0px;
+    margin-top: 30px;
+    font-size: .5rem
+  }
+  .projects{
+    margin-top: 150px;
+  }
+  .projects h1{
+    margin-top: 150px;
+  }
+  .project{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    display: block;
+    align-items: center;
+    
+  }
+  .pro1{
+    background-color:rgb(60, 9, 108);
+  border-radius: 12px;
+    height:150px;
+    width: 80%;
+   margin-top: 40px;
+    align-items: center;
+    justify-content: center;
+  }
+  .pro1 h2{
+    font-family: "Fredericka the Great", cursive;
+    color: #994ddf;
+    padding: 4px;
+    text-align: center;
+    font-size: 1.1rem;
+  }
+  .pro1 button{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  border-radius: 5px;
+   width: 100px;
+   border: 2px solid black;
+   
+  }
+  .pro1 a
+  {
+    text-decoration: none;
+    color: black;
+  }
+  .pro1 p{
+    padding: 6px;
+    height: 120px;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.1rem;
+  }
+  .boxcontainer{
+    display: block;
+  }
+  .box{
+    height:auto;
+    width: 250px;
+  }
+  .fa-brands{
+    height: 25px;
+    width: 25px;
+  }
+  .fa-brands h2{
+    font-size: .5em;
+    margin: 0;
+  }
+  .box i{
+    margin: 2px;
+    padding: 2px;
+  }
+  .boxcskill h1{
+    margin-left:80px ;
+  }
+  .boxcontainer {
+    width:250px;
+  }
+  .boxcskill  h1{
+    margin-left: 180px;
+    font-size: 2rem;
+  }
+  #left{
+    font-size: 1rem;
+    margin-left: 5%;
+  }
+  .abo{
+    display: block;
+    height: auto;
+  }
+  .aboleft h1{
+
+    margin-left: 50px;
+  }
+  .aboleft img{
+    margin-left:50px ;
+    margin-top: 150px;
+    width:300px;
+  }
+  .aboright{
+    margin-top: 50px;
+    margin-left: 25px;
+    height: 350px;
+    width:350px;
+    font-size: .7rem;
+  }
+  .skills{
+    margin-left: 30px; 
+  } 
+  .boxcontainer{
+    margin-left: 60px;
+  } 
+   .boxcskill{
+    margin-left: 20px;
+  }
+  .eduh h1{
+    width: 65%;
+margin: 0;
+font-size: 2rem;
+  }
+  .idh h1{
+    width: 70%;
+  font-size: 2rem;
+  }
+  .proh h1{
+    margin-top: 80px;
+    margin-left: 200px;
+  }
+  .projects{
+    display: block;
+    margin-left: 65px;
+    width:280px;
+   
+  }
+  .card{
+    margin-top: 10px;
+    width: 90%;
+    height: 90%;
+  
+  }
+  .timecontain img{
+    position: absolute;
+    width: 50px;
+    border-radius: 50%;
+    right: 300px;
+    top: 40px;
+    z-index: 10;
+    }
+    .right-timecontain img{
+       left: 5px;
+    }
+}
+
